@@ -1,3 +1,4 @@
+#armstrong
 n=int(raw_input())
 arms=0
 temp=n
