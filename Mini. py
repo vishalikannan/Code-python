@@ -1,4 +1,4 @@
-#to find minimum
+#to find mini
 n=raw_input()
 list1=list(map(int,raw_input().split()))
 print min(list1)
